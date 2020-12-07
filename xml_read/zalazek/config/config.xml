@@ -1,0 +1,14 @@
+  <Config>
+   <Plugins>
+      <Lib Name="Inter4Move.so"/>
+      <Lib Name="Inter4Rotate.so"/>
+      <Lib Name="Inter4Pause.so"/>
+      <Lib Name="Inter4Set.so"/>
+   </Plugins>
+   <Objects>
+      <Cube Name="obj1" SizeXYZ="10 15 5"    RGB="0 0 255"/>
+      <Cube Name="obj2" SizeXYZ="8 11.5 5"   RGB="10 0 255"/>
+      <Cube Name="obj3" SizeXYZ="12 13.5 5"  RGB="10 200 255"/>
+   </Objects>
+  </Config>
+  
